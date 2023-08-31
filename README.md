@@ -5,11 +5,10 @@
 - 👯 I’m looking to collaborate on the next big thing.
   
 - 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/samuel-ibrahim-84154818b/)
+- [Twitter](https://www.twitter.com/Oluwanbowa)
+- [Email](samuelibrahim3029@gmail.com)
 
-  [LinkedIn](https://www.linkedin.com/in/samuel-ibrahim-84154818b/)
-  [Twitter](https://www.twitter.com/Oluwanbowa)
-  [Email](samuelibrahim3029@gmail.com)
+- ⚡ I really wanna play ice hockey someday
 
-- ⚡ Fun fact: ...
-  
 
