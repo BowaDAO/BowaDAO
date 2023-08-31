@@ -5,7 +5,7 @@
 ### 📫 How to reach me:
 -  [LinkedIn](https://www.linkedin.com/in/samuel-ibrahim-84154818b/)
 -  [Twitter](https://www.twitter.com/Oluwanbowa)
--   Email](samuelibrahim3029@gmail.com)
+-  [Email](samuelibrahim3029@gmail.com)
 
 ⚡ Lately I've been using React and React Native heavily.
 
