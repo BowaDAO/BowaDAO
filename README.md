@@ -1,8 +1,8 @@
 ### Hi there, I'm Samuel 👋
 
-I enjoy writing codes, thinking about the next solution I can get my hands on, watching football, and sometimes writing stuffs.  
+I enjoy writing codes and thinking about the next "solution" to get my hands on. 
 
-⚡ Lately I've been using React and React Native heavily to build web and mobile apps. resp. 
+⚡ Lately I've been using ReactJS, NextJS and React Native to build web and mobile apps. 
 
 ⚡ I am happy to connect with you. 
   
@@ -10,6 +10,7 @@ I enjoy writing codes, thinking about the next solution I can get my hands on, w
 -  [LinkedIn](https://www.linkedin.com/in/samuel-ibrahim-84154818b/)
 -  [Twitter](https://www.twitter.com/Oluwanbowa)
 -  [Email](samuelibrahim3029@gmail.com)
+-  [Substack](https://oluwanbowa.substack.com/)
 
 
 
