@@ -2,7 +2,7 @@
 
 I enjoy writing codes and thinking about the next "solution" to get my hands on. 
 
-⚡ Lately I've been using ReactJS, NextJS and React Native to build web and mobile apps. 
+⚡ Lately I've been using ReactJS, NextJS, React Native, Node.JS, Express.JS, Redux, Redux Toolkit, React Query, and several other techs to build web and mobile apps. 
 
 ⚡ I am happy to connect with you. 
   
