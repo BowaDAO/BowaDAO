@@ -1,8 +1,13 @@
 ### Hi there, I'm Samuel 👋
 
-I enjoy writing codes and thinking about the next "solution" to get my hands on. 
+An impact-driven software developer passionate about web development technologies.
 
-⚡ Lately I've been using ReactJS, NextJS, React Native, Node.JS, Express.JS, Redux, Redux Toolkit, React Query, and several other techs to build web and mobile apps. 
+- I enjoy learning new things.
+- I love to ship code fast without compromising quality and readability.
+- I have incredibly high urgency & attention to detail.
+- I am a clear communicator.
+
+⚡ Lately I've been using ReactJS, NextJS, Node.JS, Express.JS, Redux, Redux Toolkit, React Query, React Native, and several other web and mobile development technologies. 
 
 ⚡ I am happy to connect with you. 
   
