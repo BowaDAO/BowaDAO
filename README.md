@@ -1,17 +1,19 @@
 ### Hi there, I'm Samuel 👋
 
-An impact-driven software developer passionate about web development technologies.
+An impact-driven, dedicated software developer focused on web development technologies.
 
-- I enjoy learning new things.
-- I love to ship code fast without compromising quality and readability.
-- I have incredibly high urgency & attention to detail.
-- I am a clear communicator.
+- Focuses on crafting delightful and user-friendly experiences
+- Heavy on code quality, readability, and maintenability
+- Incredibly high urgency & attention to detail
+- Clear communicator
+- Avid learner
+- Loves brainstorming to clearly map out business logics
 
-⚡ Lately I've been using ReactJS, NextJS, Node.JS, Express.JS, Redux, Redux Toolkit, React Query, React Native, and several other web and mobile development technologies. 
+⚡ I mostly use TypeScript, JavaScript, ReactJS, NextJS, Tailwind, Redux Toolkit, React Query, Node.JS, Express.JS, MongoDB, PostgreSQL, Redis, and React Native.
 
-⚡ I am happy to connect with you. 
+⚡ I am happy to discuss your potential opportunity. 
   
-### 📫 How to reach me:
+### 📫 Reach out to me via:
 -  [LinkedIn](https://www.linkedin.com/in/samuel-ibrahim-84154818b/)
 -  [Twitter](https://www.twitter.com/Oluwanbowa)
 -  [Email](samuelibrahim3029@gmail.com)
