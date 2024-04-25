@@ -1,6 +1,6 @@
-### Hi there, I'm Samuel 👋
+### Hi there,👋
 
-An impact-driven, dedicated software developer focused on latest web development technologies.
+I'm an impact-driven, dedicated software developer focused on latest web development technologies.
 
 - Focuses on crafting delightful and user-friendly experiences
 - Heavy on code quality, readability, and maintenability
